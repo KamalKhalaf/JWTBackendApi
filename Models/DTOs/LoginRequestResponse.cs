@@ -1,6 +1,6 @@
 ﻿namespace DriversApi.Models.DTOs
 {
-    public class LoginRequestResponse
+    public class LoginRequestResponse : AuthResult
     {
     }
 }
