@@ -2,11 +2,11 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DriversApi.Controllers;
+namespace JWTAPI.Controllers;
 
 [ApiController]
 [Authorize(AuthenticationSchemes =JwtBearerDefaults.AuthenticationScheme)]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class WeatherForecastController : ControllerBase
 {
     private static readonly string[] Summaries = new[]

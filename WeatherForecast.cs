@@ -1,4 +1,4 @@
-namespace DriversApi;
+namespace JWTAPI;
 
 public class WeatherForecast
 {

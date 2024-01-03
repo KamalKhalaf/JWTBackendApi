@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace DriversApi.Models.DTOs
+namespace JWTAPI.Models.DTOs
 {
     public class UserRegistrationRequestDto
     {

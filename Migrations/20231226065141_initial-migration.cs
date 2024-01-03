@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace DriversApi.Migrations
+namespace JWTAPI.Migrations
 {
     /// <inheritdoc />
     public partial class initialmigration : Migration

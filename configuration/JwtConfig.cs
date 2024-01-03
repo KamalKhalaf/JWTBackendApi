@@ -1,4 +1,4 @@
-﻿namespace DriversApi.configuration
+﻿namespace JWTAPI.configuration
 {
     public class JwtConfig
     {

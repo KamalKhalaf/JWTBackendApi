@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace DriversApi.Data
+namespace JWTAPI.Data
 {
     public class ApiDbContext : IdentityDbContext
     {
